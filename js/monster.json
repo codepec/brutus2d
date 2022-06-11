@@ -1,0 +1,142 @@
+{
+    "monsters":[
+
+        {
+            "name": "green ugly monster",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "lightgreen"
+        },
+
+        {
+            "name": "blue slime",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "aqua"
+        },
+
+        {
+            "name":  "yellow pillow",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "yellow"
+        },
+
+        {
+            "name":  "red hat",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "red"
+        },
+
+        {
+            "name": "darkest face",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "gray"
+        },
+
+        {
+            "name":  "gray wall",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "darkgray"
+        },
+
+        {
+            "name":  "dirty mirror",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "darkgray"
+        },
+
+        {
+            "name":  "handy handson",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "darkgray"
+        },
+
+        {
+            "name":  "blue bite",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "cadetblue"
+        },
+      
+        {
+            "name":  "yellow snow",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "yellow"
+        },
+
+        {
+            "name":  "dirty harry",
+            "attack": 20,
+            "secretAttack": 30,
+            "powers": [
+              "Radiation resistance",
+              "Turning tiny",
+              "Radiation blast"
+            ],
+            "color": "brown"
+        }
+    
+    
+
+        
+
+    ]  
+
+}
